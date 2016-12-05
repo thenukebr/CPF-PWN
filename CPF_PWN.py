@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+#Twitter: @d3m0l1d0r
 # Script para puxar dados pelo CPF usando API do SuS ~ DKR and D3m0l1d0r
  
 __author__ =  "Jonatas Fil a.k.a DKR and D3m0l1d0r"
