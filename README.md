@@ -5,5 +5,5 @@ Script para puxar dados pelo CPF usando API do SuS.
 
 python CPF-PWN.py cpf
 
-`Print` 
-![myimage-alt-tag](www.imgur.com/a/HBCGB.png)
+ 
+![myimage-alt-tag](http://i.imgur.com/BxE4uNQ.png)
