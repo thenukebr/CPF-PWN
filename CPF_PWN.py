@@ -5,7 +5,7 @@
  
 __author__ =  "Jonatas Fil a.k.a DKR and D3m0l1d0r"
 
-import requests,json,sys,os,commands
+import requests,json,sys
 
 
 # Colors
